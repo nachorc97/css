@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+    background-color:blue ;
+    font-size: 30px;
+    width: 222px;
+
+}
+
+
+.parrafo{
+    color: brown;
+    font-weight: bold;
+
+}
+.parrafo.texto-verde {
+    color: chartreuse;
+}
+.parrafo.texto-grande {
+    border-block-end-style: solid;
+    color: coral;
+}
